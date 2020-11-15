@@ -60,12 +60,12 @@ function draw() {
 
 }
 
-/*function readStock(data){
+function readStock(data){
 
   foodS= data.val();
 }
 
-function writeStock(x){
+/*function writeStock(x){
 
   if(x<=0){
     x=0;
